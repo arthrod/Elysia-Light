@@ -12,7 +12,7 @@
     "@types/pg": "^8.15.5",
     "bcrypt": "^6.0.0",
     "dotenv": "^17.2.2",
-    "elysia": "latest",
+    "elysia": "1.4.17",
     "ioredis": "^5.8.0",
     "pg": "^8.16.3",
     "sutando": "^1.7.2",
